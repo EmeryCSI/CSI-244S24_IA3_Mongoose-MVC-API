@@ -8,9 +8,9 @@
 
 This repository is a part of CSI-244 at Renton Technical College.
 
-## Independent Activity 2 - Library Application
+## Independent Activity 3 - 
 
-You have been asked to build a library application with both a frontend and backend.
+You have been asked to build a Web API which connects to MongoDB and returns data
 
 ### Complete the following:
 
